@@ -6,32 +6,32 @@
     "API_KEY": {
       "description": "Dapatkan API KEY di web my.telegram.org Masukan yg APP ID Telegram",
       "required": true
-      "value":"7582526"
+      "value": "7582526"
     },
     "API_HASH": {
       "description": "Dapatkan API Hash di web my.telegram.org",
       "required": true
-      "value":"255f76c202295270ffe7ea6020fa0ed4"
+      "value": "255f76c202295270ffe7ea6020fa0ed4"
     },
     "BOT_TOKEN": {
       "description": "Buat Bot di t.me/botfather Masukan BOT tokennya disini〔 Bila Tidak tau bisa di /skip 〕",
       "required": false
-      "value":"2031166543:AAGttykAWlcYZS55HkfISc-qHVoZFeZNY8w"
+      "value": "2031166543:AAGttykAWlcYZS55HkfISc-qHVoZFeZNY8w"
     },
      "STRING_SESSION": {
       "description": "Dapatkan String Session di Grup » https://t.me/SharingUserbot » Lalu ketik #string",
       "required": true
-      "value":"1BVtsOJoBu3KYg4tDtBYBX9snVOvBDXbLREWYLbiIF8WI-sMpSdjaJvCLi5aoSY3Bs-N_A-EklZNNTzti5YXidDrc-io1OHllcPcR8Vl9PLb_i98BaUpqtb2ZO7TlRMT0I2g-0_DOMP-lcN2GlAM9HWRU9Q_MzHQOK3E2tI69U3yYzM3Yw8IFkqISW_mMyD2CWAFhmDv1YE_A0MYPWmvcL2Lpc3-hgX36gwfZiTHeGbKSy4X7b0PI3z7MmDYIZsZRFXzvwfyhLPOVMqSGLqjcR_kzPnNM4PI8tgXNmLqQFYRRuIU1IE_WrkViBmGla5nwSSdhWt4f1_Caysc09IrEaBVpD2GLG3w="
+      "value": "1BVtsOJoBu3KYg4tDtBYBX9snVOvBDXbLREWYLbiIF8WI-sMpSdjaJvCLi5aoSY3Bs-N_A-EklZNNTzti5YXidDrc-io1OHllcPcR8Vl9PLb_i98BaUpqtb2ZO7TlRMT0I2g-0_DOMP-lcN2GlAM9HWRU9Q_MzHQOK3E2tI69U3yYzM3Yw8IFkqISW_mMyD2CWAFhmDv1YE_A0MYPWmvcL2Lpc3-hgX36gwfZiTHeGbKSy4X7b0PI3z7MmDYIZsZRFXzvwfyhLPOVMqSGLqjcR_kzPnNM4PI8tgXNmLqQFYRRuIU1IE_WrkViBmGla5nwSSdhWt4f1_Caysc09IrEaBVpD2GLG3w="
     },
     "HEROKU_APP_NAME": {
       "description": "Nama App heroku, Nama App yang paling pertama di isi (liat paling atas)",
       "required": true
-      "value":"bateeman"
+      "value": "bateeman"
     },
     "HEROKU_API_KEY": {
       "description": "Ambil Heroku API KEY mu disini » https://dashboard.heroku.com/account",
       "required": true
-      "value":"e11f0054-cac0-4668-a9f5-2e3ece763440"
+      "value": "e11f0054-cac0-4668-a9f5-2e3ece763440"
     }
   },
   "addons": [
