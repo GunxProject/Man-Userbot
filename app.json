@@ -18,11 +18,6 @@
       "required": false
       "value":"2031166543:AAGttykAWlcYZS55HkfISc-qHVoZFeZNY8w"
     },
-    "BOTLOG_CHATID": {
-      "description": "Id Group untuk logging botmu"
-      "required": true
-      "value":"-1001639309424"
-    },
      "STRING_SESSION": {
       "description": "Dapatkan String Session di Grup » https://t.me/SharingUserbot » Lalu ketik #string",
       "required": true
